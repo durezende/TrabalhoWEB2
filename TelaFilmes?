@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>LOCA STAR</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+      margin: 0;
+      padding: 0;
+    }
+    
+    h1 {
+      text-align: center;
+      padding: 20px;
+      background-color: #333;
+      color: #fff;
+      margin: 0;
+    }
+    
+    .container {
+      max-width: 800px;
+      margin: 20px auto;
+      background-color: #fff;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    .movie-list {
+      list-style-type: none;
+      padding: 0;
+    }
+    
+    .movie-list li {
+      margin-bottom: 10px;
+      padding: 10px;
+      background-color: #f9f9f9;
+      border-radius: 5px;
+      box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    }
+    
+    .movie-list li:hover {
+      background-color: #eaeaea;
+    }
+    
+    .movie-title {
+      font-weight: bold;
+    }
+    
+    .movie-description {
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <h1>LOCA STAR</h1>
+  
+  <div class="container">
+    <ul class="movie-list">
+      <li>
+        <h2 class="movie-title">Gente Grande</h2>
+        <p class="movie-description">A morte do treinador de basquete de infância de velhos amigos reúne a turma no mesmo lugar que celebraram um campeonato anos atrás. Os amigos, acompanhados de suas esposas e filhos, descobrem que idade não significa o mesmo que maturidade.</p>
+        <img src="https://br.web.img3.acsta.net/c_310_420/pictures/210/299/21029996_20130821205722213.jpg">
+        
+      </li>
+      <li>
+        <h2 class="movie-title">Filme 2</h2>
+        <p class="movie-description">Descrição do filme 2.</p>
+      </li>
+      <li>
+        <h2 class="movie-title">Filme 3</h2>
+        <p class="movie-description">Descrição do filme 3.</p>
+      </li>
+    </ul>
+  </div>
+</body>
+</html>
