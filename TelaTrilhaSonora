@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<title>LOCA STAR TRILHAS SONORAS</title>
+<head>
+    <style>
+        body {
+          font-family: Arial, sans-serif;
+          background-image: url(background.jpg);
+          margin: 0;
+          padding: 0;
+        }
+        
+        h1 {
+          text-align: center;
+          padding: 20px;
+          background-color: #333;
+          background-image: url(background.jpg);
+         
+          margin: 0;
+        }
+        
+        .container {
+          max-width: 800px;
+          margin: 20px auto;
+          background-image: url(Background2.jpg);
+          padding: 20px;
+          box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        
+        .audio {
+            text-align: center;
+            display: inline-block;
+            margin: 10px;
+            width: 435px;
+            height: 300px;
+        }
+
+        .movie h3 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1><img src="logo.png"></h1>
+    <h1>TRILHAS SONORAS</h1><br><br>
+
+    <div class="audio">
+        <h2>Gente Grande</h2>
+    <audio controls>
+    <source src="Gente Grande Trilha.mp3">
+    </audio>
+    </div>
+
+    <div class="audio">
+        <h2>O Fada do Dente</h2>
+    <audio controls>
+    <source src="O Fada do Dente Trilha.mp3">
+    </audio>
+    </div>
+
+    <div class="audio">
+        <h2>Todo Mundo Quase Morto</h2>
+    <audio controls>
+    <source src="Todo Mundo Quase Morto Trilha.mp3">
+    </audio>
+    </div>
+
+    <div class="audio">
+        <h2>Duro de Matar</h2>
+    <audio controls>
+    <source src="Duro de Matar Trilha.mp3">
+    </audio>
+    </div>
+
+    <div class="audio">
+        <h2>Trem-Bala</h2>
+    <audio controls>
+    <source src="Trem Bala Trilha.mp3">
+    </audio>
+    </div>
+
+    <div class="audio">
+        <h2>Battleship - A Batalha dos Mares</h2>
+    <audio controls>
+    <source src="Battleship Trilha.mp3">
+    </audio>
+    </div>
+
+    <div class="audio">
+        <h2>Meu Malvado Favorito</h2>
+    <audio controls>
+    <source src="Meu Malvado Favorito Trilha.mp3">
+    </audio>
+    </div>
+
+    <div class="audio">
+        <h2>Shrek</h2>
+    <audio controls>
+    <source src="Shrek Trilha.mp3">
+    </audio>
+    </div>
+
+    <div class="audio">
+        <h2>Os Incríveis</h2>
+    <audio controls>
+    <source src="Incriveis Trilha.mp3">
+    </audio>
+    </div>
+
+    <div class="audio">
+        <h2>Universidade Monstros</h2>
+    <audio controls>
+    <source src="Universidade Monstros Trilha.mp3">
+    </audio>
+    </div>
+</body>
+</html>
