@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+          font-family: Arial, sans-serif;
+          background-image: url(background.jpg);
+          margin: 0;
+          padding: 0;
+        }
+        
+        h1 {
+          text-align: center;
+          padding: 20px;
+          background-color: #333;
+          background-image: url(background.jpg);
+         
+          margin: 0;
+        }
+        
+        .container {
+          max-width: 800px;
+          margin: 20px auto;
+          background-image: url(Background2.jpg);
+          padding: 20px;
+          box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        
+        .movie {
+            display: inline-block;
+            margin: 10px;
+        }
+
+        .movie video {
+            width: 593px;
+            height: 400px;
+        }
+
+        .movie h3 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1><img src="logo.png"></h1>
+
+    <div class="movie">
+        <h3>Gente Grande</h3>
+        <video src="Trailer Gente Grande.mp4" controls></video>
+    </div>
+
+    <div class="movie">
+        <h3>O Fada do Dente</h3>
+        <video src="Trailer O Fada do Dente.mp4" controls></video>
+    </div>
+
+    <div class="movie">
+        <h3>Todo Mundo Quase Morto</h3>
+        <video src="TODO MUNDO QUASE MORTO TRAILER.mp4" controls></video>
+    </div>
+
+    <div class="movie">
+        <h3>Duro de Matar</h3>
+        <video src="Duro de Matar Trailer.mp4" controls></video>
+    </div>
+
+    <div class="movie">
+        <h3>Trem-Bala</h3>
+        <video src="Trem-Bala Trailer.mp4" controls></video>
+    </div>
+
+    <div class="movie">
+        <h3>Battleship - A Batalha dos Mares</h3>
+        <video src="Battleship Trailer.mp4" controls></video>
+    </div>
+
+    <div class="movie">
+        <h3>Meu Malvado Favorito</h3>
+        <video src="Meu Malvado Favorito Trailer.mp4" controls></video>
+    </div>
+
+    <div class="movie">
+        <h3>Shrek</h3>
+        <video src="Shrek Trailer.mp4" controls></video>
+    </div>
+
+    <div class="movie">
+        <h3>Os Incríveis</h3>
+        <video src="Os Incríveis Trailer.mp4" controls></video>
+    </div>
+
+    <div class="movie">
+        <h3>Universidade Monstros</h3>
+        <video src="Universidade Monstros Trailer.mp4" controls></video>
+    </div>
+</body>
+</html>
