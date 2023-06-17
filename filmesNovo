@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>LOCA STAR</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="navbar">
+    <a href="PaginaPrincipal.html">Página Principal</a>
+    <a href="filmes.html">Filmes</a>
+    <a href="TelaTrilhaSonora.html">Trilha Sonora</a>
+    <a href="TelaTrailers.html">Trailer</a>
+  </div>
+
+  <h1>
+    <img src="./img/logo.png">
+  </h1>
+  <div class="container">
+    <h2><a href="FilmesComédia.html"> Comédia |</a>
+      <a href="FilmesAção.html"> Ação |</a>
+      <a href="FilmesAnimação.html"> Animação</a></h2>
+  </div>
+</body>
+</html>
+
+
