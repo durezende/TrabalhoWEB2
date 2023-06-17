@@ -17,6 +17,9 @@
     <img src="./img/logo.png">
   </h1>
   <div class="container">
+    <h2><a href="FilmesComédia.html"> Comédia |</a>
+      <a href="FilmesAção.html"> Ação |</a>
+      <a href="FilmesAnimação.html"> Animação</a></h2>
     <ul class="movie-list">
       <li>
         <h1>Animação</h1>
