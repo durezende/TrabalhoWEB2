@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>LOCA STAR</title>
+</head>
+<body>
+  <h1>Faça seu Login</h1>
+
+    <label for="usuario">Usuário:</label>
+    <input type="text" id="usuario" name="usuario" required><br><br><br>
+    
+    <label for="senha">Senha:</label>
+    <input type="password" id="senha" name="senha" required><br><br>
+
+    <input type="submit" value="Entrar"><br><br><br>
+</form>
+    <a href="pagprincipal.html">Entrar</a>
+    <a href="TelaCadastro.html">Cadastrar-se</a>
+  
+</h2>
+</body>
+</html>
