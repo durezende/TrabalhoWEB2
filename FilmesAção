@@ -17,6 +17,9 @@
     <img src="./img/logo.png">
   </h1>
   <div class="container">
+    <h2><a href="FilmesComédia.html"> Comédia |</a>
+      <a href="FilmesAção.html"> Ação |</a>
+      <a href="FilmesAnimação.html"> Animação</a></h2>
     <ul class="movie-list">
         <h1>Ação</h1>
         <h2 class="movie-title">Duro de Matar</h2>
