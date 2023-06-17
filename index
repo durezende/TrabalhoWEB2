@@ -1,23 +1,38 @@
 <!DOCTYPE html>
-
 <head>
-    <title>LOCA STAR</title>
+  <title>Página Principal</title>
 </head>
-
 <body>
-    <img src="logo.png">
-<br><br><br>
-<form action="dados.html">
+  <h1>Bem-vindo ao site da LOCA STAR!</h1><br><br>
+  <h2>Na nossa locadora, você encontrará uma ampla variedade de filmes para todos os gostos e idades. Estamos comprometidos em oferecer uma experiência cinematográfica excepcional, com um acervo diversificado e atualizado constantemente.</h2>
+  <br><br>
+  <h1>Horário de Atendimento:<br><br></h1>
+  <h3>
+    <ul>
+      <li>Segunda-Feira: 08:30h às 18:00h</li>
+      <li>Terça-Feira: 08:30h às 18:00h</li>
+      <li>Quarta-Feira: 08:30h às 18:00h</li>
+      <li>Quinta-Feira: 08:30h às 18:00h</li>
+      <li>Sexta-Feira: 08:30h às 18:00h</li>
+      <li>Sábado: 08:30h às 13:00h</li>
+      <li>Domingo: FECHADO</li>
+    </ul>
+  </h3> 
+  <br><br>
+    
+  <h1>Endereço:<br><br></h1>
+    <h3> 
+    <ul>
+        <li>Rua Assis Figueiredo, número 32, Centro.</li>
+    </ul>
 
-Usuário:<input type="text" name="usuario">
-<label for="senha">Senha:</label> 
-<input name="senha" type="password"> <br><br><br>
-<input type="submit" value="Enviar" > 
-</form>
-<br><br><br>
-<a href="paginaprincipal.html">Entrar</a>
-<a href="paginacadastro.html">Cadastre-se</a>
+    </h3>
 
-</body>
+ 
+  
+  
 
-</html>
+
+
+
+  </html>
